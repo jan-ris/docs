@@ -108,7 +108,7 @@
           "icon": "download",
           "pages": [
             "pages/engine/eksportering/eksporter-pdf",
-            "pages/engine/eksportering/eksporter-dxf"
+            "pages/engine/eksportering/eksporter-dwg"
           ]
         },
         {
